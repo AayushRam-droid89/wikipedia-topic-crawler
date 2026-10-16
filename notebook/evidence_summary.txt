@@ -1,0 +1,17 @@
+DWM WEB CRAWLER — EVIDENCE SUMMARY
+========================================
+Generated UTC: 2026-10-16T20:55:21.381284+00:00
+Configured sources: 3
+Keywords: artificial intelligence, machine learning, data mining
+Articles stored: 30
+Unique URLs: 30
+Total extracted words: 25065
+
+Files included in this project folder:
+- articles.csv
+- change_history.csv
+- crawl_state.json
+- crawler.log
+- evidence_summary.txt
+- run_history.csv
+- source_summary.csv

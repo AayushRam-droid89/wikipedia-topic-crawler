@@ -1,0 +1,9 @@
+CRAWLER DATASET VALIDATION
+Total articles: 40
+Duplicate URLs: 0
+Duplicate content hashes: 0
+
+Articles by source:
+source
+BBC World    30
+NASA         10
